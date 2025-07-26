@@ -42,9 +42,21 @@ I'm passionate about building **robust, high-performance systems** at the inters
 
 ### 📊 GitHub Stats
 
+## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=baudhya&show_icons=true&theme=tokyonight&count_private=true" alt="Siddharth's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=baudhya&show_icons=true&theme=tokyonight" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baudhya&layout=compact&theme=tokyonight" width="47%" />
 </p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=baudhya&theme=tokyonight&hide_border=true" width="60%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=baudhya&theme=gruvbox&column=6" />
+</p>
+
 
 ---
 
