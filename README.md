@@ -26,7 +26,6 @@
 
 ### 🚀 Highlight Projects
 
-- 🧠 **[pH1L050P3r](https://github.com/baudhya/pH1L050P3r)** – LLM-based philosophical agent with voice interaction via ElevenLabs & prompt chaining  
 - 🧩 **Memory Checkpointing with eBPF** – Checkpoints heap memory at runtime using syscall-level instrumentation  
 - 🔐 **In-Kernel Sandboxing** – Combines LLVM IR instrumentation + eBPF for enforcing syscall-level policies  
 - ⚙️ **Optimizing Dilated Convolution** – CUDA + SIMD (AVX2/AVX-512) version achieving up to 800x speedup  
